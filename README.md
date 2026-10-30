@@ -105,6 +105,4 @@ This project is intended for educational and authorized cybersecurity research p
 
 ## Author
 
-**Your Name**
-
-GitHub: https://github.com/YOUR-USERNAME
+THARUN PRANAV I G
